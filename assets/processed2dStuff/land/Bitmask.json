@@ -1,0 +1,1482 @@
+{ "frames": {
+   "Bitmask references gif 0.gif": {
+    "frame": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 1.gif": {
+    "frame": { "x": 540, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 2.gif": {
+    "frame": { "x": 1080, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 3.gif": {
+    "frame": { "x": 1620, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 4.gif": {
+    "frame": { "x": 2160, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 5.gif": {
+    "frame": { "x": 2160, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 6.gif": {
+    "frame": { "x": 2160, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 7.gif": {
+    "frame": { "x": 2160, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 8.gif": {
+    "frame": { "x": 2160, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 9.gif": {
+    "frame": { "x": 2700, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 10.gif": {
+    "frame": { "x": 3240, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 11.gif": {
+    "frame": { "x": 3780, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 12.gif": {
+    "frame": { "x": 4320, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 13.gif": {
+    "frame": { "x": 4860, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 14.gif": {
+    "frame": { "x": 5400, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 15.gif": {
+    "frame": { "x": 5400, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 16.gif": {
+    "frame": { "x": 5400, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 17.gif": {
+    "frame": { "x": 5940, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 18.gif": {
+    "frame": { "x": 5940, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 19.gif": {
+    "frame": { "x": 5940, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 20.gif": {
+    "frame": { "x": 5940, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 21.gif": {
+    "frame": { "x": 5940, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 22.gif": {
+    "frame": { "x": 6480, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 23.gif": {
+    "frame": { "x": 7020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 24.gif": {
+    "frame": { "x": 7560, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 25.gif": {
+    "frame": { "x": 7560, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 26.gif": {
+    "frame": { "x": 7560, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 27.gif": {
+    "frame": { "x": 8100, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 28.gif": {
+    "frame": { "x": 8100, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 29.gif": {
+    "frame": { "x": 8100, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 30.gif": {
+    "frame": { "x": 8640, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 31.gif": {
+    "frame": { "x": 9180, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 32.gif": {
+    "frame": { "x": 9720, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 33.gif": {
+    "frame": { "x": 10260, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 34.gif": {
+    "frame": { "x": 10800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 35.gif": {
+    "frame": { "x": 11340, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 36.gif": {
+    "frame": { "x": 11340, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 37.gif": {
+    "frame": { "x": 11340, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 38.gif": {
+    "frame": { "x": 11880, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 39.gif": {
+    "frame": { "x": 12420, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 40.gif": {
+    "frame": { "x": 12960, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 41.gif": {
+    "frame": { "x": 12960, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 42.gif": {
+    "frame": { "x": 12960, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 43.gif": {
+    "frame": { "x": 13500, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 44.gif": {
+    "frame": { "x": 13500, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 45.gif": {
+    "frame": { "x": 13500, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 46.gif": {
+    "frame": { "x": 13500, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 47.gif": {
+    "frame": { "x": 13500, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 48.gif": {
+    "frame": { "x": 13500, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 49.gif": {
+    "frame": { "x": 14040, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 50.gif": {
+    "frame": { "x": 14580, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 51.gif": {
+    "frame": { "x": 15120, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 52.gif": {
+    "frame": { "x": 15660, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 53.gif": {
+    "frame": { "x": 16200, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 54.gif": {
+    "frame": { "x": 16740, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 55.gif": {
+    "frame": { "x": 17280, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 56.gif": {
+    "frame": { "x": 17280, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 57.gif": {
+    "frame": { "x": 17820, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 58.gif": {
+    "frame": { "x": 18360, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 59.gif": {
+    "frame": { "x": 18900, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 60.gif": {
+    "frame": { "x": 19440, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 61.gif": {
+    "frame": { "x": 19980, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 62.gif": {
+    "frame": { "x": 20520, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 63.gif": {
+    "frame": { "x": 20520, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 64.gif": {
+    "frame": { "x": 20520, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 65.gif": {
+    "frame": { "x": 20520, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 66.gif": {
+    "frame": { "x": 21060, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 67.gif": {
+    "frame": { "x": 21600, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 68.gif": {
+    "frame": { "x": 22140, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 69.gif": {
+    "frame": { "x": 22680, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 70.gif": {
+    "frame": { "x": 22680, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 71.gif": {
+    "frame": { "x": 22680, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 72.gif": {
+    "frame": { "x": 22680, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 73.gif": {
+    "frame": { "x": 23220, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 74.gif": {
+    "frame": { "x": 23760, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 75.gif": {
+    "frame": { "x": 24300, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 76.gif": {
+    "frame": { "x": 24840, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 77.gif": {
+    "frame": { "x": 25380, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 78.gif": {
+    "frame": { "x": 25920, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 79.gif": {
+    "frame": { "x": 26460, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 80.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 81.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 82.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 83.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 84.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 85.gif": {
+    "frame": { "x": 27540, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 86.gif": {
+    "frame": { "x": 28080, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 87.gif": {
+    "frame": { "x": 28620, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 88.gif": {
+    "frame": { "x": 29160, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 89.gif": {
+    "frame": { "x": 29700, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 90.gif": {
+    "frame": { "x": 30240, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 91.gif": {
+    "frame": { "x": 30780, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 92.gif": {
+    "frame": { "x": 31320, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 93.gif": {
+    "frame": { "x": 31860, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 94.gif": {
+    "frame": { "x": 32400, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 95.gif": {
+    "frame": { "x": 32940, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 96.gif": {
+    "frame": { "x": 33480, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 97.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 98.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 99.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 100.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 101.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 102.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 103.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 104.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 105.gif": {
+    "frame": { "x": 34560, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 106.gif": {
+    "frame": { "x": 35100, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 107.gif": {
+    "frame": { "x": 35640, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 108.gif": {
+    "frame": { "x": 36180, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 109.gif": {
+    "frame": { "x": 36720, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 110.gif": {
+    "frame": { "x": 37260, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 111.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 112.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 113.gif": {
+    "frame": { "x": 38340, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 114.gif": {
+    "frame": { "x": 38880, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 115.gif": {
+    "frame": { "x": 39420, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 116.gif": {
+    "frame": { "x": 38340, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 117.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 118.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 119.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 120.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 121.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 122.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 123.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 124.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 125.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 126.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 127.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 128.gif": {
+    "frame": { "x": 37800, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 129.gif": {
+    "frame": { "x": 37260, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 130.gif": {
+    "frame": { "x": 36720, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 131.gif": {
+    "frame": { "x": 36180, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 132.gif": {
+    "frame": { "x": 35640, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 133.gif": {
+    "frame": { "x": 35100, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 134.gif": {
+    "frame": { "x": 34560, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 135.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 136.gif": {
+    "frame": { "x": 34020, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 137.gif": {
+    "frame": { "x": 39960, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 138.gif": {
+    "frame": { "x": 40500, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 139.gif": {
+    "frame": { "x": 41040, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 140.gif": {
+    "frame": { "x": 41580, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 141.gif": {
+    "frame": { "x": 42120, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 142.gif": {
+    "frame": { "x": 42660, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 143.gif": {
+    "frame": { "x": 43200, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 144.gif": {
+    "frame": { "x": 29160, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 145.gif": {
+    "frame": { "x": 28620, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 146.gif": {
+    "frame": { "x": 28080, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 147.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 148.gif": {
+    "frame": { "x": 27540, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 149.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 150.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 151.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 152.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 153.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 154.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 155.gif": {
+    "frame": { "x": 43740, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 156.gif": {
+    "frame": { "x": 44280, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 157.gif": {
+    "frame": { "x": 44820, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 158.gif": {
+    "frame": { "x": 43740, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 159.gif": {
+    "frame": { "x": 27000, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 160.gif": {
+    "frame": { "x": 26460, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 161.gif": {
+    "frame": { "x": 25920, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 162.gif": {
+    "frame": { "x": 25380, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 163.gif": {
+    "frame": { "x": 45360, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 164.gif": {
+    "frame": { "x": 45900, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 165.gif": {
+    "frame": { "x": 46440, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 166.gif": {
+    "frame": { "x": 22680, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 167.gif": {
+    "frame": { "x": 22680, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 168.gif": {
+    "frame": { "x": 21600, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 169.gif": {
+    "frame": { "x": 46980, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 170.gif": {
+    "frame": { "x": 47520, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 171.gif": {
+    "frame": { "x": 19440, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 172.gif": {
+    "frame": { "x": 18900, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 173.gif": {
+    "frame": { "x": 48060, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 174.gif": {
+    "frame": { "x": 48600, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 175.gif": {
+    "frame": { "x": 17280, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 176.gif": {
+    "frame": { "x": 16740, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 177.gif": {
+    "frame": { "x": 49140, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 178.gif": {
+    "frame": { "x": 49680, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 179.gif": {
+    "frame": { "x": 50220, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 180.gif": {
+    "frame": { "x": 50760, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 181.gif": {
+    "frame": { "x": 51300, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   },
+   "Bitmask references gif 182.gif": {
+    "frame": { "x": 51840, "y": 0, "w": 540, "h": 540 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 540, "h": 540 },
+    "sourceSize": { "w": 540, "h": 540 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.15.2-x64",
+  "image": "Bitmask.png",
+  "format": "RGBA8888",
+  "size": { "w": 52380, "h": 540 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Background", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
